@@ -10,3 +10,8 @@
 ```
 $ pip install numpy
 ```
+
+# Step 4 - task list
+- [x] eggs
+- [x] milk
+- [ ] bananas
